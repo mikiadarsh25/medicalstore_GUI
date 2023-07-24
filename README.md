@@ -35,5 +35,5 @@ Here are the steps you will need to execute to build this project:
 
 ### GUI presentation
 
-!(../Images/1.png)
+[![](../master/Images/1.png)]()
 
