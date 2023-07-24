@@ -35,5 +35,5 @@ Here are the steps you will need to execute to build this project:
 
 ### GUI presentation
 
-!(../master/Images/1.png)
+!(../Images/1.png)
 
