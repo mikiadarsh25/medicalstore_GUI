@@ -35,5 +35,13 @@ Here are the steps you will need to execute to build this project:
 
 ### GUI presentation
 
+### Visual Presentation of GUI
+
 [![](/Images/1.png)]()
+
+
+### Deleting a record from Database
+
+[![](/Images/2.png)]()
+[![](/Images/3.png)]()
 
