@@ -31,3 +31,9 @@ Here are the steps you will need to execute to build this project:
 1. Importing all the necessary libraries and modules.
 2. Initializing the GUI window and placing the components in it.
 3. Defining the functions to manipulate the data in the database and the tree.
+
+
+### GUI presentation
+
+!(../master/Images/1.png)
+
